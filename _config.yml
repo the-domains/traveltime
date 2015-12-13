@@ -1,0 +1,28 @@
+name: TravelTime
+favicon: null
+layout_spectrum: 0.6390353536698967
+typography_spectrum: 0.996089821215719
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5204437717329711
+  lightness: 0.12287023779936135
+  saturation: 0.2347835609689355
+  rhythmicContrast: 0.01806505653075874
+purpose: []
